@@ -1,3 +1,4 @@
 # Learning Git in VSCode
 
-- third commits
+- third commit
+- another line
